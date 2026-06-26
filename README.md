@@ -1,10 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sairaj</h1>
+# Hi 👋, I'm Sairaj
 
-<p align="center">
-  <b>Backend Developer • Machine Learning • Deep Learning</b>
-</p>
-
----
 ## 👨‍💻 About Me
 - 👀 I like building scalable applications and working on deployment projects.
 - 🔭 I'm also open to any technical opportunities.
