@@ -1,9 +1,10 @@
-# Hi 👋, I'm Sairaj
+# Hi 👋, I'm Sairaj Magdum
 
 ## 👨‍💻 About Me
 - 👀 I like building scalable applications and working on deployment projects.
-- 🔭 I'm also open to any technical opportunities.
+- ⚡ Published paper on “Engagement and Attention Level Detection on the DAiSEE Dataset” at IEEE Xplore
 - 🌱 I'm currently learning LangChain, GenAI, and RAG.
+- 🔭 I'm also open to any technical opportunities.
 - 📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/sairaj3141)
 - 😄 Pronouns: He/Him
 
