@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sairaj
+# Hi 👋, I'm Sairaj Magdum
 
 ## 👨‍💻 About Me
 - 👀 I like building scalable applications and working on deployment projects.
