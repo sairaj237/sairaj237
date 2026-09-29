@@ -10,8 +10,8 @@
 
 
 ## 📊 GitHub Stats: 
-![](https://github-readme-stats.vercel.app/api?username=sairaj237&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sairaj237&theme=dark&hide_border=false)<br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=sairaj237&theme=dark&hide_border=false)
+![](https://github-stats-extended.vercel.app/api?username=sairaj237&include_all_commits=true&theme=vision-friendly-dark)<br/> 
 ![](https://github-stats-extended.vercel.app/api/top-langs?username=sairaj237&langs_count=4&theme=dark_github) 
 
 ---
