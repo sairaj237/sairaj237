@@ -10,16 +10,25 @@
 
 
 ## 📊 GitHub Stats: 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairaj237&theme=dark&hide_border=false" />
-  <img src="https://github-stats-extended.vercel.app/api?username=sairaj237&include_all_commits=true&theme=vision-friendly-dark" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairaj237&theme=dark&hide_border=false" />
+    </td>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api?username=sairaj237&include_all_commits=true&theme=vision-friendly-dark" />
+    </td>
+  </tr>
 
-<p>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sairaj237&langs_count=4&theme=dark_github" />
-  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=sairaj237&theme=onedark" />
-</p>
-
+  <tr>
+    <td valign="top">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sairaj237&langs_count=4&theme=dark_github" />
+    </td>
+    <td valign="top">
+      <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=sairaj237&theme=onedark&column=4" />
+    </td>
+  </tr>
+</table>
 
 <!--
 ✨ This repository is a special repository because its `README.md` appears on your GitHub profile.
