@@ -10,24 +10,15 @@
 
 
 ## 📊 GitHub Stats: 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairaj237&theme=dark&hide_border=false" />
-    </td>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api?username=sairaj237&include_all_commits=true&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sairaj237&langs_count=4&theme=dark_github" />
-    </td>
-    <td>
-      <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=sairaj237&theme=onedark" />
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairaj237&theme=dark&hide_border=false" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sairaj237&include_all_commits=true&theme=vision-friendly-dark" />
+</p>
+
+<p>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sairaj237&langs_count=4&theme=dark_github" />
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=sairaj237&theme=onedark" />
+</p>
 
 
 <!--
