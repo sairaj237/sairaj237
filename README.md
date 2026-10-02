@@ -20,8 +20,11 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td>
       <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sairaj237&langs_count=4&theme=dark_github" />
+    </td>
+    <td>
+      <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=sairaj237&theme=onedark" />
     </td>
   </tr>
 </table>
