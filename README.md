@@ -10,11 +10,12 @@
 
 
 ## 📊 GitHub Stats: 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sairaj237&theme=dark&hide_border=false)
-![](https://github-stats-extended.vercel.app/api?username=sairaj237&include_all_commits=true&theme=vision-friendly-dark)<br/> 
-![](https://github-stats-extended.vercel.app/api/top-langs?username=sairaj237&langs_count=4&theme=dark_github) 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairaj237&theme=dark&hide_border=false" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sairaj237&include_all_commits=true&theme=vision-friendly-dark" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sairaj237&langs_count=4&theme=dark_github" />
+</div>
 
----
 
 <!--
 ✨ This repository is a special repository because its `README.md` appears on your GitHub profile.
