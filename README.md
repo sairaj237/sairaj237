@@ -1,7 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Sairaj
+
+## 👨‍💻 About Me
+- 👀 I like building scalable applications.
+- ⚡ Published paper on “Engagement and Attention Level Detection on the DAiSEE Dataset” at IEEE Xplore
+- 🌱 I'm currently learning LangChain, GenAI, and RAG.
+- 🔭 I'm also open to any technical opportunities.
+- 📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/sairaj3141)
+- 😄 Pronouns: He/Him
+
+
+## 📊 GitHub Stats: 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairaj237&theme=dark&hide_border=false" />
+    </td>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api?username=sairaj237&include_all_commits=true&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sairaj237&langs_count=4&theme=dark_github" />
+    </td>
+    <td valign="top">
+      <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=sairaj237&theme=onedark&column=4" />
+    </td>
+  </tr>
+</table>
 
 <!--
-**sairaj237/sairaj237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ This repository is a special repository because its `README.md` appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+-->
+
+<!--
+**sairaj237/sairaj237** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
